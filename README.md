@@ -1,4 +1,4 @@
-# Bash : Terminal Based CRUD Security Interface  
+# Bash | Terminal Based CRUD Security Interface ( Work in Progress )  
 
 > Terminal based application used to interact with a custom HTTP server and database written in bash, because I can, because I am an adult and noone can stop me!
 
